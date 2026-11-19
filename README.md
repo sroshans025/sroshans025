@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <img src="./assets/typing-v2.svg" alt="Typing animation" width="100%"/>
+  <img src="./assets/typing-v3.svg" alt="Typing animation" width="100%"/>
 </div>
 
 <img src="./assets/dog-run.svg" alt="A dog running across the page" width="100%"/>
@@ -23,18 +23,18 @@
 
 ```python
 class Roshan:
-    role      = "AI & ML Intern @ VDart"
-    studying  = "B.E. CSE (AI & ML) @ Chennai Institute of Technology, CGPA 8.15"
+    role      = "Aspiring AI & ML Engineer"
+    studying  = "B.E. CSE (AI & ML), CGPA 8.15"
     location  = "Pudukkottai, Tamil Nadu, India"
     languages = ["English", "Tamil"]
-    leads     = "Secretary, Team Yuvenza (Youth Club of CIT)"
+    leads     = "Secretary, Team Yuvenza (college youth club)"
     interests = ["Machine Learning", "NLP", "Nature", "Animal behaviour"]
 
     def goal(self):
         return "An entry-level AI/ML role building real products"
 ```
 
-- 💼 AI & ML Intern at **VDart**, working on an AI-powered resume builder
+- 🧠 I build AI-powered apps with machine learning and NLP
 - 🔭 Hands-on with predictive modeling, NLP, automation and AI-driven apps
 - 🤝 As Secretary of **Team Yuvenza** I mentor members, set milestones and unblock events
 - 🌿 Biophilia & cynophilist studies: nature and animal behaviour are my happy place
@@ -91,8 +91,7 @@ Data Structures & Algorithms • Database Management • Web Development • Sup
 
 ## 💼 Experience & leadership
 
-- **AI & ML Intern, VDart** (Oct 2026 – Nov 2026): working on an AI-powered resume builder platform (React, Django, SQLite), contributing AI-driven features and applying ML and NLP to real product requirements
-- **Secretary, Team Yuvenza** (Youth Club of CIT): mentored members, defined project milestones and resolved logistical bottlenecks to improve event quality and student engagement
+- **Secretary, Team Yuvenza** (college youth club): mentored members, defined project milestones and resolved logistical bottlenecks to improve event quality and student engagement
 - **Machine Learning Researcher & Developer**, Independent Projects: engineered the AirRisk Prediction system with supervised learning, and researched air quality models to identify key environmental variables for more reliable air-index prediction
 
 ## 🎓 Certifications
