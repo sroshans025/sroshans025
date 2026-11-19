@@ -1,13 +1,13 @@
 <!-- Animated header -->
 <div align="center">
-  <img src="./assets/header.svg" alt="Roshan S - AI & ML Engineer" width="100%"/>
+  <img src="./assets/header-v3.svg" alt="Roshan S - AI & ML Engineer" width="100%"/>
 </div>
 
 <div align="center">
   <img src="./assets/typing-v3.svg" alt="Typing animation" width="100%"/>
 </div>
 
-<img src="./assets/dog-run.svg" alt="A dog running across the page" width="100%"/>
+<img src="./assets/dog-run-v3.svg" alt="A dog running across the page" width="100%"/>
 
 <div align="center">
 
@@ -39,7 +39,7 @@ class Roshan:
 - 🤝 As Secretary of **Team Yuvenza** I mentor members, set milestones and unblock events
 - 🌿 Biophilia & cynophilist studies: nature and animal behaviour are my happy place
 
-<img src="./assets/paws.svg" alt="paw prints" width="100%"/>
+<img src="./assets/paws-v3.svg" alt="paw prints" width="100%"/>
 
 ## 🛠️ Tech stack
 
@@ -78,7 +78,7 @@ Data Structures & Algorithms • Database Management • Web Development • Sup
 
 </details>
 
-<img src="./assets/paws.svg" alt="paw prints" width="100%"/>
+<img src="./assets/paws-v3.svg" alt="paw prints" width="100%"/>
 
 ## 🚀 Projects
 
@@ -103,7 +103,7 @@ Data Structures & Algorithms • Database Management • Web Development • Sup
 ![Cisco](https://img.shields.io/badge/CCNA:_Introduction_to_Networks-Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB_Basics_for_Students-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-<img src="./assets/paws.svg" alt="paw prints" width="100%"/>
+<img src="./assets/paws-v3.svg" alt="paw prints" width="100%"/>
 
 ## 📊 GitHub stats
 
@@ -125,8 +125,8 @@ I'm looking for an entry-level **AI/ML** role where I can build impactful produc
 [![Email](https://img.shields.io/badge/Email_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sroshans025@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 
-<img src="./assets/dog-run.svg" alt="dog" width="100%"/>
+<img src="./assets/dog-run-v3.svg" alt="dog" width="100%"/>
 
-<img src="./assets/footer.svg" width="100%" alt="footer"/>
+<img src="./assets/footer-v3.svg" width="100%" alt="footer"/>
 
 </div>
