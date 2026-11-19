@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 130" width="100%">
+<defs><linearGradient id="f" x1="0" x2="1"><stop offset="0" stop-color="#0b1f4a"/><stop offset=".5" stop-color="#1f6feb"/><stop offset="1" stop-color="#58a6ff"/></linearGradient>
+<clipPath id="c"><rect width="900" height="130" rx="20"/></clipPath></defs>
+<style>.w1{animation:a 9s linear infinite}.w2{animation:a 6s linear infinite reverse}.w3{animation:a 14s linear infinite}@keyframes a{from{transform:translateX(0)}to{transform:translateX(-900px)}}
+text{font-family:'Segoe UI', Helvetica, Arial, sans-serif}</style>
+<g clip-path="url(#c)"><rect width="900" height="130" fill="#03060d"/>
+<g class="w3" opacity=".3" fill="url(#f)"><path id="a" d="M0 76 Q112 46 225 76 T450 76 T675 76 T900 76 V130 H0z"/><use href="#a" x="900"/></g>
+<g class="w2" opacity=".55" fill="url(#f)"><path id="b" d="M0 90 Q112 66 225 90 T450 90 T675 90 T900 90 V130 H0z"/><use href="#b" x="900"/></g>
+<g class="w1" opacity=".95" fill="url(#f)"><path id="d" d="M0 106 Q112 88 225 106 T450 106 T675 106 T900 106 V130 H0z"/><use href="#d" x="900"/></g>
+<text x="450" y="38" text-anchor="middle" font-size="21" font-weight="800" fill="#e6edf3">Thanks for stopping by. Let's build something great.</text>
+<text x="450" y="60" text-anchor="middle" font-size="13" fill="#58a6ff" font-family="Consolas, 'Courier New', monospace">— Roshan &amp; the border collie</text></g></svg>

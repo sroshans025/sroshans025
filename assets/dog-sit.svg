@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 250" width="280">
+<defs><radialGradient id="rg"><stop offset="0" stop-color="#1f6feb" stop-opacity=".55"/><stop offset="1" stop-color="#1f6feb" stop-opacity="0"/></radialGradient></defs>
+<style>.eye{transform-box:fill-box;transform-origin:50% 50%;animation:blink 4s infinite}@keyframes blink{0%,93%,100%{transform:scaleY(1)}96%{transform:scaleY(.1)}}
+.tg{transform-box:fill-box;transform-origin:50% 0%;animation:pt .5s ease-in-out infinite alternate}@keyframes pt{from{transform:scaleY(.8)}to{transform:scaleY(1.15)}}
+.tl{transform-box:fill-box;transform-origin:0% 100%;animation:wg .35s ease-in-out infinite alternate}@keyframes wg{from{transform:rotate(-22deg)}to{transform:rotate(22deg)}}
+.hd{transform-origin:150px 140px;animation:tilt 3s ease-in-out infinite alternate}@keyframes tilt{from{transform:rotate(-4deg)}to{transform:rotate(4deg)}}
+.ht{animation:up 3.6s ease-in infinite}@keyframes up{0%{opacity:0;transform:translate(0,30px) scale(.6)}20%{opacity:1}100%{opacity:0;transform:translate(8px,-40px) scale(1.1)}}
+.bub{transform-box:fill-box;transform-origin:20% 100%;animation:bp 1.6s ease-in-out infinite}@keyframes bp{0%,100%{transform:scale(1)}50%{transform:scale(1.07)}}
+.gl{animation:gp 3s ease-in-out infinite;transform-origin:150px 130px}@keyframes gp{0%,100%{transform:scale(1);opacity:.8}50%{transform:scale(1.1);opacity:1}}
+</style>
+<circle class="gl" cx="150" cy="130" r="120" fill="url(#rg)"/>
+<ellipse cx="150" cy="226" rx="78" ry="10" fill="#000" opacity=".5"/>
+<g class="tl"><path d="M205 205 Q250 205 252 160" stroke="#1b1f27" stroke-width="16" fill="none" stroke-linecap="round"/><path d="M252 175 Q252 166 252 160" stroke="#f5f7fa" stroke-width="16" fill="none" stroke-linecap="round"/></g>
+<ellipse cx="108" cy="198" rx="30" ry="24" fill="#1b1f27" stroke="#3b4a63"/><ellipse cx="192" cy="198" rx="30" ry="24" fill="#1b1f27" stroke="#3b4a63"/>
+<ellipse cx="150" cy="168" rx="50" ry="56" fill="#1b1f27" stroke="#3b4a63"/><path d="M150 118 Q184 130 178 170 Q172 205 150 208 Q128 205 122 170 Q116 130 150 118z" fill="#f5f7fa"/>
+<rect x="128" y="176" width="16" height="40" rx="8" fill="#f5f7fa" stroke="#cdd6e0"/><rect x="156" y="176" width="16" height="40" rx="8" fill="#f5f7fa" stroke="#cdd6e0"/>
+<ellipse cx="136" cy="218" rx="13" ry="7" fill="#f5f7fa" stroke="#cdd6e0"/><ellipse cx="164" cy="218" rx="13" ry="7" fill="#f5f7fa" stroke="#cdd6e0"/>
+<path d="M122 136 Q150 154 178 136" stroke="#58a6ff" stroke-width="9" fill="none" stroke-linecap="round"/><circle cx="150" cy="150" r="6" fill="#a5d6ff" stroke="#1f6feb"/>
+<g class="hd"><path d="M118 80 L104 34 Q130 36 138 66z" fill="#1b1f27" stroke="#3b4a63"/><path d="M104 34 Q118 31 124 44 Q112 48 104 34z" fill="#000"/>
+<path d="M182 80 L196 34 Q170 36 162 66z" fill="#1b1f27" stroke="#3b4a63"/><path d="M196 34 Q182 31 176 44 Q188 48 196 34z" fill="#000"/>
+<circle cx="150" cy="96" r="42" fill="#1b1f27" stroke="#3b4a63"/><path d="M144 56 Q150 50 156 56 L166 106 L134 106z" fill="#f5f7fa"/>
+<ellipse cx="150" cy="114" rx="23" ry="19" fill="#f5f7fa"/><ellipse cx="150" cy="104" rx="8" ry="5.5" fill="#000"/>
+<path d="M150 109 V116 M139 118 Q150 128 161 118" stroke="#333" stroke-width="2" fill="none" stroke-linecap="round"/>
+<path class="tg" d="M144 123 q6 14 12 0z" fill="#ff7b9c"/>
+<g class="eye"><circle cx="134" cy="90" r="6" fill="#000"/><circle cx="136" cy="88" r="2" fill="#fff"/></g>
+<g class="eye"><circle cx="166" cy="90" r="6" fill="#000"/><circle cx="168" cy="88" r="2" fill="#fff"/></g>
+<circle cx="123" cy="80" r="2.2" fill="#58a6ff"/><circle cx="177" cy="80" r="2.2" fill="#58a6ff"/></g>
+<g class="bub"><rect x="186" y="18" width="104" height="40" rx="14" fill="#1f6feb" stroke="#a5d6ff"/><path d="M200 56 L192 72 L218 56z" fill="#1f6feb"/>
+<text x="238" y="44" font-size="17" font-weight="800" text-anchor="middle" fill="#fff" font-family="'Segoe UI', Helvetica, Arial, sans-serif">Hire him!</text></g>
+<path class="ht" d="M210 80 c-6 -8 -18 0 -9 9 l9 8 l9 -8 c9 -9 -3 -17 -9 -9z" fill="#58a6ff"/>
+<path class="ht" style="animation-delay:1.2s" d="M60 90 c-6 -8 -18 0 -9 9 l9 8 l9 -8 c9 -9 -3 -17 -9 -9z" fill="#a5d6ff"/>
+<path class="ht" style="animation-delay:2.4s" d="M232 100 c-6 -8 -18 0 -9 9 l9 8 l9 -8 c9 -9 -3 -17 -9 -9z" fill="#1f6feb"/>
+</svg>
