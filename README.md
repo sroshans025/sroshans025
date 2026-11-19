@@ -7,7 +7,7 @@
   <img src="./assets/typing.svg" alt="Typing animation" width="100%"/>
 </div>
 
-<img src="./assets/dog-run.svg" alt="A border collie running across the page" width="100%"/>
+<img src="./assets/dog-run.svg" alt="A dog running across the page" width="100%"/>
 
 <div align="center">
 
@@ -23,21 +23,21 @@
 
 ```python
 class Roshan:
-    role      = "AI & ML Engineer Intern @ Infyro"
+    role      = "AI & ML Intern @ VDart"
     studying  = "B.E. CSE (AI & ML) @ Chennai Institute of Technology, CGPA 8.15"
     location  = "Pudukkottai, Tamil Nadu, India"
     languages = ["English", "Tamil"]
     leads     = "Secretary, Team Yuvenza (Youth Club of CIT)"
-    interests = ["Machine Learning", "Backend & APIs", "Nature", "Border collies 🐕"]
+    interests = ["Machine Learning", "NLP", "Nature", "Animal behaviour"]
 
     def goal(self):
-        return "Build, train and ship ML-powered products end to end"
+        return "An entry-level AI/ML role building real products"
 ```
 
-- 🔭 I build predictive ML systems and the backends that serve them
-- 🌱 Currently learning: **PyTorch, Next.js, Docker, MLOps (MLflow, DVC)**
+- 💼 AI & ML Intern at **VDart**, working on an AI-powered resume builder
+- 🔭 Hands-on with predictive modeling, NLP, automation and AI-driven apps
 - 🤝 As Secretary of **Team Yuvenza** I mentor members, set milestones and unblock events
-- 🐾 Biophilia & cynophilist studies: nature and animal behaviour are my happy place
+- 🌿 Biophilia & cynophilist studies: nature and animal behaviour are my happy place
 
 <img src="./assets/paws.svg" alt="paw prints" width="100%"/>
 
@@ -46,29 +46,29 @@ class Roshan:
 **Languages**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=py,java,c,cpp,js,ts,html,css&theme=dark" alt="languages"/>
+  <img src="https://skillicons.dev/icons?i=py,java,c,cpp&theme=dark" alt="languages"/>
 </p>
 
-**Backend, Web & Databases**
+**AI / ML**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=fastapi,django,nodejs,react,tailwind,sqlite,mongodb,postgres&theme=dark" alt="web"/>
-</p>
-
-**ML & Data**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" alt="ml"/>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Machine_Learning-2f81f7?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NLP-c98b4a?style=for-the-badge&logo=spacy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Predictive_Modeling-30363d?style=for-the-badge&logo=databricks&logoColor=white"/>
+</p>
+
+**Web & Backend**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,django,react,sqlite&theme=dark" alt="web"/>
   <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white"/>
 </p>
 
-**Tools, Cloud & DevOps**
+**Tools & Cloud**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux,vscode,postman,figma&theme=dark" alt="tools"/>
+  <img src="https://skillicons.dev/icons?i=git,github,aws,mongodb,vscode&theme=dark" alt="tools"/>
 </p>
 
 <details>
@@ -84,16 +84,16 @@ Data Structures & Algorithms • Database Management • Web Development • Sup
 
 | Project | What it does | Stack |
 | :-- | :-- | :-- |
-| 🌫️ **AirRisk Prediction** | Predicts atmospheric risk levels and PM2.5 pollutant concentrations | `Python` `Machine Learning` |
-| 🩺 **HealthRisk Prediction** | Classifies patient health risk from clinical parameters and historical data | `Python` `Scikit-Learn` |
-| ✉️ **PyMail** | Automation tool for sending personalized emails with attachments | `Python` `SMTP` |
-| 🏦 **AgentLend AI** | Backend managing persistent loan states, background workers and real-time dashboard updates | `Python` `FastAPI` `SQLAlchemy` `WDK` |
+| 🏦 **AgentLend AI** | Backend of an autonomous, decentralized lending platform combining AI with on-chain components: persistent loan states, background workers and real-time dashboard updates. Built at **Hackathon Galactica (WDK Edition)** | `Python` `FastAPI` `SQLAlchemy` `WDK` |
+| 🧠 **Mental Health Analyzer** | Predictive diagnostic dashboard combining behavioral data with NLP for mental health tracking | `NLP` `Machine Learning` |
+| 🗣️ **Vazhi** | Bilingual (English and Malayalam), accessibility-focused AI assistant that helps Kerala citizens discover government schemes, with document checklists | `AI Chatbot` `API` |
+| 🌫️ **AirRisk Prediction** | ML pipeline that forecasts PM2.5 concentrations in Miami-Dade County and predicts atmospheric risk levels | `Python` `Machine Learning` |
 
 ## 💼 Experience & leadership
 
-- **AI & ML Engineer Intern**, Infyro
-- **Machine Learning Researcher & Developer**: built the AirRisk and HealthRisk systems with supervised learning, and researched key environmental variables to make air-index prediction more reliable
+- **AI & ML Intern, VDart** (Oct 2026 – Nov 2026): working on an AI-powered resume builder platform (React, Django, SQLite), contributing AI-driven features and applying ML and NLP to real product requirements
 - **Secretary, Team Yuvenza** (Youth Club of CIT): mentored members, defined project milestones and resolved logistical bottlenecks to improve event quality and student engagement
+- **Machine Learning Researcher & Developer**, Independent Projects: engineered the AirRisk Prediction system with supervised learning, and researched air quality models to identify key environmental variables for more reliable air-index prediction
 
 ## 🎓 Certifications
 
@@ -119,14 +119,14 @@ Data Structures & Algorithms • Database Management • Web Development • Sup
 
 ## 🤝 Let's connect
 
-I'm looking for an entry-level **AI/ML** role where I can build impactful products with a forward-thinking team. If you have an idea, a bug, or a good border collie photo, reach out.
+I'm looking for an entry-level **AI/ML** role where I can build impactful products with a forward-thinking team. If you have an idea or an opportunity, reach out.
 
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sroshans025@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 
-<img src="./assets/dog-run.svg" alt="border collie" width="100%"/>
+<img src="./assets/dog-run.svg" alt="dog" width="100%"/>
 
 <img src="./assets/footer.svg" width="100%" alt="footer"/>
 
