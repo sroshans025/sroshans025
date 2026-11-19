@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 200" width="100%">
+<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#0d1117"/><stop offset=".5" stop-color="#c98b4a"/><stop offset="1" stop-color="#2f81f7"/></linearGradient></defs>
+<style>.wv{animation:wv 8s ease-in-out infinite alternate}@keyframes wv{from{transform:translateX(0)}to{transform:translateX(-200px)}}
+.t{font-family:'Segoe UI',Helvetica,Arial,sans-serif;animation:in 1.4s ease-out both}.t2{animation-delay:.5s}
+@keyframes in{from{opacity:0}to{opacity:1}}</style>
+<g class="wv"><path d="M0 0 H1100 V160 Q1000 190 900 160 T700 160 T500 160 T300 160 T100 160 T-100 160 V0z" fill="url(#g)"/></g>
+<g class="wv" style="animation-duration:11s" opacity=".45"><path d="M0 0 H1100 V175 Q1000 145 900 175 T700 175 T500 175 T300 175 T100 175 T-100 175 V0z" fill="url(#g)"/></g>
+<text class="t" x="450" y="82" text-anchor="middle" font-size="60" font-weight="700" fill="#fff">Roshan S</text>
+<text class="t t2" x="450" y="124" text-anchor="middle" font-size="18" fill="#fff">AI &amp; ML Engineer  •  B.E. CSE (AI &amp; ML)  •  Pudukkottai, India</text>
+</svg>

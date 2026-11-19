@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 120" width="100%">
+<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#2f81f7"/><stop offset=".5" stop-color="#c98b4a"/><stop offset="1" stop-color="#0d1117"/></linearGradient></defs>
+<style>.wv{animation:wv 8s ease-in-out infinite alternate}@keyframes wv{from{transform:translateX(0)}to{transform:translateX(-200px)}}</style>
+<g class="wv"><path d="M0 120 H1100 V40 Q1000 10 900 40 T700 40 T500 40 T300 40 T100 40 T-100 40 V120z" fill="url(#g)"/></g>
+<g class="wv" style="animation-duration:11s" opacity=".45"><path d="M0 120 H1100 V25 Q1000 55 900 25 T700 25 T500 25 T300 25 T100 25 T-100 25 V120z" fill="url(#g)"/></g>
+</svg>
