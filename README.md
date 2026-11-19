@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <img src="./assets/typing.svg" alt="Typing animation" width="100%"/>
+  <img src="./assets/typing-v2.svg" alt="Typing animation" width="100%"/>
 </div>
 
 <img src="./assets/dog-run.svg" alt="A dog running across the page" width="100%"/>
